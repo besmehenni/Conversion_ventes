@@ -2,7 +2,7 @@
 
 version 09-02-2020
 
-Le but de ce challenge est d'analyser les conversions sur un site web.
+Le but de ce projet est d'analyser les conversions sur un site web.
 
 ![PIC1](/md_image/pic1.PNG)
 
